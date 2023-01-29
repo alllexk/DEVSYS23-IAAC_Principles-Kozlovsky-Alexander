@@ -24,4 +24,14 @@ Continuous Delivery - непрерывная доставка подразуме
 
 # 3
 
+Установлен VirtualBox
+
 ![VirtualBox](https://github.com/alllexk/DEVSYS23-IAAC_Principles-Kozlovsky-Alexander/blob/562ea1630f1d60502328e3a62cdf072eb6c619c9/images/VirtualBox.png)
+
+Установлен Vagrant
+
+![Vagrant](https://github.com/alllexk/DEVSYS23-IAAC_Principles-Kozlovsky-Alexander/blob/08ebb355cc3bc2c70578308171abb0fd7debab02/images/Vagrant.png)
+
+Установлен Ansible
+
+![Ansible](https://github.com/alllexk/DEVSYS23-IAAC_Principles-Kozlovsky-Alexander/blob/08ebb355cc3bc2c70578308171abb0fd7debab02/images/Ansible.png)
